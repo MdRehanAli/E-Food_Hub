@@ -32,11 +32,11 @@ h2 {
     color: gray;
 }
 
-span{
+span {
     color: orange;
 }
 
-.spacing{
+.spacing {
     font-size: 20px;
     margin-bottom: 100px;
 }
@@ -77,7 +77,6 @@ h2 {
     width: 340px;
     padding-top: 111px;
     padding-left: 170px;
-
 }
 
 .half-width {
@@ -101,19 +100,34 @@ h2 {
 }
 
 .shadow {
-    box-shadow: 10px 20px 40px rgb(59, 55, 55);
+    box-shadow: 10px 20px 40px rgb(180, 179, 179);
     margin: 20px 20px 0px 20px;
     padding: 50px 50px 20px 50px;
     border-radius: 20px;
 
 }
 
-.footer_bg{
+.footer_bg {
     padding-top: 20px;
     background-color: black;
     height: 250px;
 }
 
-#last_p{
+#last_p {
     color: white;
+}
+
+.new_margin {
+    margin: auto;
+}
+
+.section_4 {
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
+.font {
+    color: black;
 }
