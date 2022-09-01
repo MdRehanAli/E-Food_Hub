@@ -4,6 +4,7 @@ body {
 
 }
 
+
 .button {
     text-decoration: none;
     font-weight: 700;
@@ -25,7 +26,17 @@ h1 {
     font-size: 60px;
 }
 
-p {
+h2 {
+    font-weight: bold;
+    font-size: 40px;
+    color: gray;
+}
+
+span{
+    color: orange;
+}
+
+.spacing{
     font-size: 20px;
     margin-bottom: 100px;
 }
@@ -56,6 +67,12 @@ h2 {
     margin-bottom: 100px;
 }
 
+.section_3 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+}
+
 .Image_2 {
     width: 340px;
     padding-top: 111px;
@@ -65,4 +82,38 @@ h2 {
 
 .half-width {
     width: 50%;
+}
+
+.margine_under_paragraph {
+    margin-bottom: 10px;
+}
+
+.my_recepies {
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+    margin-bottom: 40px;
+
+}
+
+.dish {
+    width: 500px;
+}
+
+.shadow {
+    box-shadow: 10px 20px 40px rgb(59, 55, 55);
+    margin: 20px 20px 0px 20px;
+    padding: 50px 50px 20px 50px;
+    border-radius: 20px;
+
+}
+
+.footer_bg{
+    padding-top: 20px;
+    background-color: black;
+    height: 250px;
+}
+
+#last_p{
+    color: white;
 }
